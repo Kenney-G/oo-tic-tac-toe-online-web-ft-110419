@@ -121,7 +121,6 @@ else if draw?
 end
 end
 end
-TicTacToe.play
 end
 
 TicTacToe
