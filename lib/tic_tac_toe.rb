@@ -120,6 +120,6 @@ else if draw?
   puts "Cat's Game!"
 end
 end
-end
 TicTacToe.initialize
+end
 end
