@@ -123,4 +123,4 @@ end
 end
 end
 
-TicTacToe.new(@board)
+TicTacToe.initialize
