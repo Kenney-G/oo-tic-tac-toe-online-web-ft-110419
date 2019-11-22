@@ -121,6 +121,5 @@ else if draw?
 end
 end
 end
-end
-
 TicTacToe.initialize
+end
