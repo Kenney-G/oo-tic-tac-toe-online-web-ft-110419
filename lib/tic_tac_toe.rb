@@ -122,5 +122,4 @@ end
 end
 end
 end
-
-TicTacToe.new(game)
+game = TicTacToe.new
